@@ -35,9 +35,9 @@ Unlike basic expense trackers, this system also analyzes regret spending and cat
 - requirements.txt – Required libraries
 
 ## ▶️ How to Run
-1. Open the notebook in Google Colab or Jupyter
-2. Install required libraries using `requirements.txt`
-3. Run cells step by step
+1. Open the notebook in Google Colab or Jupyter.
+2. Install required libraries using `requirements.txt`.
+3. Run cells step by step.
 4. Enter expense data when prompted.
 
 ## 📌 Author
