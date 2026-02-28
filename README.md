@@ -19,7 +19,7 @@ Unlike basic expense trackers, this system also analyzes regret spending and cat
 3. Data is read and processed using Pandas
 4. Numerical analysis is done using NumPy
 5. Clean data is exported to CSV
-6. Visualizations are generated for insights
+6. Visualizations are generated for insights.
 
 ## 📊 Key Features
 - Category-wise expense analysis
