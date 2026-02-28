@@ -29,10 +29,10 @@ Unlike basic expense trackers, this system also analyzes regret spending and cat
 - Beginner-friendly and job-ready project
 
 ## 📁 Project Files
-- Smart_Expense_Tracker.ipynb – Main project notebook
-- expense_tracker.db – SQLite database
-- expenses.csv – Exported expense data
-- requirements.txt – Required libraries
+- Smart_Expense_Tracker.ipynb – Main project notebook.
+- expense_tracker.db – SQLite database.
+- expenses.csv – Exported expense data.
+- requirements.txt – Required libraries.
 
 ## ▶️ How to Run
 1. Open the notebook in Google Colab or Jupyter.
