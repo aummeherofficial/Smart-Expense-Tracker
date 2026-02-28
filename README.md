@@ -22,11 +22,11 @@ Unlike basic expense trackers, this system also analyzes regret spending and cat
 6. Visualizations are generated for insights.
 
 ## 📊 Key Features
-- Category-wise expense analysis
-- Regret expense detection
-- Daily expense trend visualization
-- CSV report generation
-- Beginner-friendly and job-ready project
+- Category-wise expense analysis.
+- Regret expense detection.
+- Daily expense trend visualization.
+- CSV report generation.
+- Beginner-friendly and job-ready project.
 
 ## 📁 Project Files
 - Smart_Expense_Tracker.ipynb – Main project notebook.
